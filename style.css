@@ -16,6 +16,7 @@ body {
   font-size: 1rem;
   font-family: "Poppins", sans-serif;
   font-weight: 400;
+  margin-bottom: 20px;
 }
 
 .btn-mais-informacoes:hover {
@@ -39,4 +40,12 @@ body {
   background: #999;
   border-radius: 50%;
   position: absolute;
+}
+
+/* Usado na aula 1107 - Condicionais 2 */
+.resultado {
+  font-size: 2rem;
+  font-weight: 800;
+  font-family: "Popppins", sans-serif;
+  margin-left: 30px;
 }
